@@ -1,0 +1,7 @@
+C:\Chandan\Learning\Azure\AZ-204Course\Sample\FirstASPNetCoreWebApp\bin\Release\net8.0\publish\LearningApp.exe
+C:\Chandan\Learning\Azure\AZ-204Course\Sample\FirstASPNetCoreWebApp\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Chandan\Learning\Azure\AZ-204Course\Sample\FirstASPNetCoreWebApp\bin\Release\net8.0\publish\appsettings.json
+C:\Chandan\Learning\Azure\AZ-204Course\Sample\FirstASPNetCoreWebApp\bin\Release\net8.0\publish\LearningApp.dll
+C:\Chandan\Learning\Azure\AZ-204Course\Sample\FirstASPNetCoreWebApp\bin\Release\net8.0\publish\LearningApp.deps.json
+C:\Chandan\Learning\Azure\AZ-204Course\Sample\FirstASPNetCoreWebApp\bin\Release\net8.0\publish\LearningApp.runtimeconfig.json
+C:\Chandan\Learning\Azure\AZ-204Course\Sample\FirstASPNetCoreWebApp\bin\Release\net8.0\publish\LearningApp.pdb

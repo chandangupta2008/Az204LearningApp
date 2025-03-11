@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Chandan\Learning\Azure\AZ-204Course\Sample\FirstASPNetCoreWebApp\LearningApp\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2025-02-27T11:33:50.6683965Z;True|2025-02-24T16:18:25.6372689+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
